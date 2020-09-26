@@ -1,0 +1,195 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(204, 118, 118);
+}
+#tod{
+    width: 1348px;
+    height: 129px;
+    background: #000000;
+}
+#log{
+    width: 150px;
+    height: 129px;
+    float: left; 
+    margin-left: 10%;  
+}
+#nav{
+    width: 1061px;
+    height: 129px;
+    float: right;
+}
+#navi{
+    margin: 0.1em;
+    padding: 0.1em;
+    color: rgb(255, 255, 255);
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 40px;
+    font-size: 20px;
+}
+
+#cargos{
+    width: 1348px;
+    height: 1800px;
+    background-color: teal;
+}
+#principal{
+    width: 1348px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+}
+#uno{
+    width: 337px;
+    height: 300px;
+    float: left;
+    background-color: rgb(130, 228, 207);
+}
+#dos{
+    width: 337px;
+    height: 300px;
+    float: left;
+    background-color: rgb(218, 183, 108);
+}
+#tres{
+    width:  337px;
+    height: 300px;
+    float: left; 
+    background-color: rgb(112, 217, 231);
+}
+#cuatro{
+    width: 337px;
+    height: 300px;
+    float: right; 
+    background-color: rgb(238, 190, 240);
+}
+#secundario{
+    width: 1348px;
+    height: 357px;
+    background-color: rgb(255, 255, 255);
+}
+#secret{
+    width: 674px;
+    height: 300px;
+    float: left;
+    background-color: rgb(158, 255, 139);
+}
+#secre{
+    width: 674px;
+    height: 300px;
+    float: right;
+    background-color: rgb(211, 238, 147);
+}
+#trece{
+    width: 1348px;
+    height: 360px;
+    background-color: rgb(255, 255, 255);
+}
+#in{
+    width: 337px;
+    height: 300px;
+    float: left;
+    background-color: rgb(236, 169, 180);
+}
+#ins{
+    width: 337px;
+    height: 300px;
+    float: left;
+    background-color: rgb(119, 188, 206);
+}
+#insp{
+    width:  337px;
+    height: 300px;
+    float: left; 
+    background-color: rgb(112, 217, 231);
+}
+#inspe{
+    width: 337px;
+    height: 300px;
+    float: right; 
+    background-color: rgb(211, 102, 102);
+}
+#dece{
+    width: 1348px;
+    height: 360px;
+    background-color: rgb(255, 255, 255);
+}
+#de{
+    width: 337px;
+    height: 300px;
+    float: left;
+    background-color: rgb(128, 129, 196);
+}
+#dec{
+    width: 337px;
+    height: 300px;
+    float: left;
+    background-color: rgb(255, 230, 91);
+}
+#decen{
+    width:  337px;
+    height: 300px;
+    float: left; 
+    background-color: rgb(255, 143, 91);
+}
+#deces{
+    width: 337px;
+    height: 300px;
+    float: right; 
+    background-color: rgb(247, 73, 96);
+}
+#finanzas{
+    width: 1348px;
+    height: 360px;
+    background-color: rgb(255, 255, 255);
+}
+#fi{
+    width: 449px;
+    height: 300px;
+    float: left;
+    background-color: rgb(251, 136, 255);
+}
+#finan{
+    width: 449px;
+    height: 300px;
+    float: left;
+    background-color: rgb(186, 236, 140);
+}
+#finanz{
+    width:  449px;
+    height: 300px;
+    float: right; 
+    background-color: rgba(98, 255, 177, 0.678);
+}
+#finish{
+    width: 1348px;
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+}
+#ubi{
+    width: 449px;
+    height: 150px;
+    float: left;
+}
+#contac{
+    width: 449px;
+    height: 150px;
+    float: left;
+}
+#corp{
+    width: 449px;
+    height: 150px;
+    float: right;
+}
+#martes{
+font-size: 25px;
+color: #af5a0a;
+margin-left: 5%;
+}
+#tods{
+    font-size: 23px;
+    color: white;
+    margin-left: 5%;
+}
