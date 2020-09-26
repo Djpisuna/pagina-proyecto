@@ -1,0 +1,227 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: wheat;
+}
+#tod{
+    width: 1348px;
+    height: 129px;
+    background: #000000;
+}
+#log{
+    width: 150px;
+    height: 129px;
+    float: left; 
+    margin-left: 10%;  
+}
+#nav{
+    width: 1061px;
+    height: 129px;
+    float: right;
+}
+#navi{
+    margin: 0.1em;
+    padding: 0.1em;
+    color: rgb(255, 255, 255);
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 40px;
+    font-size: 20px;
+}
+.slider{
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+}
+.slider ul{
+    padding: 0;
+    display: flex;
+    width: 400%;
+    animation: cambio 20s infinite  alternate;
+  
+}
+.slider li{
+    list-style: none;
+    width: 100%;
+}
+.slider img{
+    width: 100%;
+}
+@keyframes cambio {
+    0% { margin-left: 0;}
+    20% { margin-left: 0;}
+
+    25% { margin-left: -100%;}
+    45% { margin-left:-100%;}
+
+    50% { margin-left: -200%;}
+    70% { margin-left: -200%;}
+
+    75% { margin-left: -300%;}
+    100% { margin-left: -300%;}
+
+}
+.slide{
+    width: 40%;
+    margin: auto;
+    overflow: hidden;
+    float: left;
+    margin-left: 5%;
+}
+.slide ul{
+    padding: 0;
+    display: flex;
+    width: 400%;
+    animation: cambio 29s infinite  alternate;
+    
+  
+}
+.slide li{
+    list-style: none;
+    width: 100%;
+    
+}
+.slide img{
+    width: 100%;
+    
+}
+@keyframes cambio {
+    0% { margin-left: 0;}
+    20% { margin-left: 0;}
+
+    25% { margin-left: -100%;}
+    45% { margin-left:-100%;}
+
+    50% { margin-left: -200%;}
+    70% { margin-left: -200%;}
+
+    75% { margin-left: -300%;}
+    100% { margin-left: -300%;}
+
+}
+.slid{
+    width: 40%;
+    margin: auto;
+    overflow: hidden;
+    float: right;
+    margin-right: 5%;
+}
+.slid ul{
+    padding: 0;
+    display: flex;
+    width: 400%;
+    animation: cambio 28s infinite  alternate;
+    
+  
+}
+.slid li{
+    list-style: none;
+    width: 100%;
+    
+}
+.slid img{
+    width: 100%;
+    
+}
+@keyframes cambio {
+    0% { margin-left: 0;}
+    20% { margin-left: 0;}
+
+    25% { margin-left: -100%;}
+    45% { margin-left:-100%;}
+
+    50% { margin-left: -200%;}
+    70% { margin-left: -200%;}
+
+    75% { margin-left: -300%;}
+    100% { margin-left: -300%;}
+
+}
+.ima{
+    width: 40%;
+    margin: auto;
+    overflow: hidden;
+    float: right;
+    margin-right: 5%;
+}
+.ima ul{
+    padding: 0;
+    display: flex;
+    width: 400%;
+    animation: cambio 30s infinite  alternate;
+    
+  
+}
+.ima li{
+    list-style: none;
+    width: 100%;
+    
+}
+.ima img{
+    width: 100%;
+    
+}
+@keyframes cambio {
+    0% { margin-left: 0;}
+    20% { margin-left: 0;}
+
+    25% { margin-left: -100%;}
+    45% { margin-left:-100%;}
+
+    50% { margin-left: -200%;}
+    70% { margin-left: -200%;}
+
+    75% { margin-left: -300%;}
+    100% { margin-left: -300%;}
+
+}
+.nex{
+    width: 40%;
+    margin: auto;
+    overflow: hidden;
+    float: left;
+    margin-left: 5%;
+}
+.nex ul{
+    padding: 0;
+    display: flex;
+    width: 400%;
+    animation: cambio 31s infinite  alternate;
+    
+  
+}
+.nex li{
+    list-style: none;
+    width: 100%;
+    
+}
+.nex img{
+    width: 100%;
+    
+}
+@keyframes cambio {
+    0% { margin-left: 0;}
+    20% { margin-left: 0;}
+
+    25% { margin-left: -100%;}
+    45% { margin-left:-100%;}
+
+    50% { margin-left: -200%;}
+    70% { margin-left: -200%;}
+
+    75% { margin-left: -300%;}
+    100% { margin-left: -300%;}
+
+}
+h1{
+background-color: rgb(151, 27, 5);
+color: rgb(241, 186, 177);
+}
+h2{
+    background-color: rgb(238, 57, 238);
+    color: white;
+}
+
+
